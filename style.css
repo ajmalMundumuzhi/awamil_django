@@ -1,0 +1,32 @@
+/* header */
+.a-header{
+    text-decoration: none;
+    color:black;
+}
+/* banner */
+.banner{
+    background-image: url('/images/black-backround.jpg'); 
+    background-size: cover; 
+    background-position: center;
+    height: 100vh; 
+    width: 100%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner-button{
+    border-radius: 25px;
+    height: 10%;
+    font-size: 35px;
+}
+/* content */
+.content-font{
+    font-size: 55px;
+}
+.a-content{
+    text-decoration: none;
+}
+/* detail */
+.detail-box{
+    border-radius: 25%;
+}
